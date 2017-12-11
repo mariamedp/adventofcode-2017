@@ -1,5 +1,4 @@
 import sys
-import re
 
 try:
 	fname = sys.argv[1]
